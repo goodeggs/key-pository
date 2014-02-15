@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+path = require('path');
+
+process.title = 'sync_heroku_collaborators';
+
+require(path.resolve(__dirname, '../lib/cli'));
+

@@ -1,0 +1,15 @@
+{
+  "name": "key-pository",
+  "version": "0.0.1",
+  "description": "key-pository",
+  "dependencies": {
+    "fibrous": "*",
+    "heroku-client": "*"
+  },
+  "devDependencies": {
+    "coffee-script": "*"
+  },
+  "scripts": {
+    "test": "coffee -c -o lib src"
+  }
+}
