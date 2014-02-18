@@ -4,7 +4,9 @@
   "description": "key-pository",
   "dependencies": {
     "fibrous": "*",
-    "heroku-client": "*"
+    "glob": "*",
+    "heroku-client": "*",
+    "yargs": "*"
   },
   "devDependencies": {
     "coffee-script": "*"

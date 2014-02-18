@@ -4,7 +4,7 @@ if [ $USER != "ubuntu" ]; then
   exit 1
 fi
 
-cat *.pub > $HOME/.ssh/authorized_keys
+cat keys/*.pub > $HOME/.ssh/authorized_keys
 chmod 600 $HOME/.ssh/authorized_keys
 
 echo "rebuilt ~/.ssh/authorized_keys"
