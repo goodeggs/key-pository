@@ -16,6 +16,7 @@ argv = require('yargs')
   .argv
 
 EMAIL_REGEXP = /^[^@]+@[^@.]+[.][^@]+$/
+EXPECTED_OWNER = 'admin@goodeggsinc.com'
 
 fibrous.run  ->
 
@@ -32,10 +33,16 @@ fibrous.run  ->
     collaborators.push comment
 
   heroku = new Heroku token: argv.token
-  
+
   for app in heroku.apps().sync.list()
-    console.log app.name
     owner = app.owner.email
+
+    if owner isnt EXPECTED_OWNER
+      console.error "skipping #{app.name} because owner is #{owner} (expected: #{EXPECTED_OWNER})"
+      continue
+    else
+      console.log app.name
+
     app = heroku.apps(app.name)
     hash = {}
     (hash[email] = 1 for email in collaborators)
