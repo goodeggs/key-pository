@@ -5,7 +5,7 @@
   "dependencies": {
     "fibrous": "*",
     "glob": "*",
-    "heroku-client": "*",
+    "heroku-client": "git+https://github.com/goodeggs/node-heroku-client.git#master",
     "yargs": "*"
   },
   "devDependencies": {
