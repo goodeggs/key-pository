@@ -21,3 +21,7 @@ See the Good Eggs 1Password vault for the heroku login which you'll need to get 
 
 `./bin/sync_heroku_collaborators`
 
+Make sure to include the Heroku API token as the argument 'token'.
+
+By default, the script will do a dry-run. If it looks successful, add the argument 'commit' to your call to have it actually sync.
+
