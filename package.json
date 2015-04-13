@@ -4,9 +4,9 @@
   "description": "key-pository",
   "dependencies": {
     "fibrous": "*",
-    "glob": "*",
     "heroku-client": "git+https://github.com/goodeggs/node-heroku-client.git#master",
-    "yargs": "*"
+    "yargs": "*",
+    "js-yaml": "^3.2.7"
   },
   "devDependencies": {
     "coffee-script": "*"

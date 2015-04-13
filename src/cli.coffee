@@ -1,6 +1,6 @@
 fs = require 'fs'
 path = require 'path'
-glob = require 'glob'
+yaml = require 'js-yaml'
 fibrous = require 'fibrous'
 Heroku = require 'heroku-client'
 
@@ -15,22 +15,15 @@ argv = require('yargs')
   .usage 'Synchronizes all of the heroku app collaborators using email addresses in the local key files.\nUsage: $0'
   .argv
 
-EMAIL_REGEXP = /^[^@]+@[^@.]+[.][^@]+$/
 EXPECTED_OWNER = 'admin@goodeggsinc.com'
 
 fibrous.run  ->
 
   collaborators = []
 
-  pubfiles = glob.sync path.resolve(path.join(__dirname, '..', 'keys', '*.pub'))
-  for pubfile in pubfiles
-    content = fs.sync.readFile pubfile
-    [type, key, comment...] = content.toString().split ' '
-    comment = comment.join(' ').trim()
-    if not comment.match EMAIL_REGEXP
-      console.log "ignoring #{pubfile}: comment isn't an email address"
-      continue
-    collaborators.push comment
+  folks = yaml.safeLoad fs.readFileSync(path.join(__dirname, '..', 'folks.yml'))
+  for {username, heroku} in folks
+    collaborators.push heroku or "#{username}@goodeggs.com"
 
   heroku = new Heroku token: argv.token
 

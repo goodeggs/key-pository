@@ -1,0 +1,127 @@
+---
+
+-
+  name: Aaron Borden
+  username: aaron
+  github: adborden
+
+-
+  name: Adam Hull
+  username: adam
+  github: hurrymaplelad
+  heroku: adam@hmlad.com
+
+-
+  name: Alon Salant
+  username: alon
+  github: asalant
+  heroku: alon@salant.org
+
+-
+  name: Ben Buckman
+  username: ben.buckman
+  github: benbuckman
+
+-
+  name: Bob Zoller
+  username: bob
+  github: bobzoller
+
+-
+  name: Dan Reed
+  username: dan
+  github: dreed1
+
+-
+  name: Danny Nelson
+  username: danny
+  github: dannynelson
+
+-
+  name: Daryl Lau
+  username: daryl
+  github: dlau
+
+-
+  name: Erik Pukinskis
+  username: erik.pukinskis
+  github: erikpukinskis
+  heroku: erik.pukinskis+2@goodeggs.com
+
+-
+  name: Joe Sadowski
+  username: joe
+  github: thebigsadowski
+
+-
+  name: John Rothfels
+  username: john
+  github: rothfels
+
+-
+  name: Jonah Williams
+  username: jonah
+  github: jonah-williams
+
+-
+  name: Keith Norman
+  username: keith
+  github: keithnorm
+
+-
+  name: Kerry Liu
+  username: kerry
+  github: gwwar
+
+-
+  name: Kyle Warneck
+  username: kyle.warneck
+  github: kylew
+
+-
+  name: Lei Huang
+  username: lei
+  github: sylspren
+
+-
+  name: Max Edmands
+  username: max
+  github: demands
+
+-
+  name: Michael Kebbekus
+  username: michael.kebbekus
+  github: makebbekus
+
+-
+  name: Moshe Bergman
+  username: moshe
+  github: mb-dev
+
+-
+  name: Michelle Becker
+  username: michelle
+  github: michelle-becker
+
+-
+  name: Philippe Serhal
+  username: philippe
+  github: serhalp
+
+-
+  name: Randy Puro
+  username: randy
+  github: randypuro
+  heroku: randypuro@gmail.com
+
+-
+  name: Sherman Mui
+  username: sherman
+  github: sherrman
+
+-
+  name: Deploybot
+  username: deploy
+  github: goodeggs-deploy
+  heroku: deploy@goodeggsinc.com
+
