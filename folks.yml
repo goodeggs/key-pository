@@ -11,17 +11,20 @@
   username: adam
   github: hurrymaplelad
   heroku: adam@hmlad.com
+  npm: hurrymaplelad
 
 -
   name: Alon Salant
   username: alon
   github: asalant
   heroku: alon@salant.org
+  npm: asalant
 
 -
   name: Ben Buckman
   username: ben.buckman
   github: benbuckman
+  npm: benbuckman
 
 -
   name: Bob Zoller
@@ -38,88 +41,105 @@
   name: Danny Nelson
   username: danny
   github: dannynelson
+  npm: dannynelson
 
 -
   name: Daryl Lau
   username: daryl
   github: dlau
+  npm: dlau
 
 -
   name: Erik Pukinskis
   username: erik.pukinskis
   github: erikpukinskis
   heroku: erik.pukinskis+2@goodeggs.com
+  npm: erikpukinskis
 
 -
   name: Joe Sadowski
   username: joe
   github: thebigsadowski
+  npm: thebigsadowski
 
 -
   name: John Rothfels
   username: john
   github: rothfels
+  npm: rothfels
 
 -
   name: Jonah Williams
   username: jonah
   github: jonah-williams
+  npm: jonah-williams
 
 -
   name: Keith Norman
   username: keith
   github: keithnorm
+  npm: keithnorm
 
 -
   name: Kerry Liu
   username: kerry
   github: gwwar
+  npm: gwwar
 
 -
   name: Kyle Warneck
   username: kyle.warneck
   github: kylew
+  npm: kylew
 
 -
   name: Lei Huang
   username: lei
   github: sylspren
+  npm: sylspren
 
 -
   name: Max Edmands
   username: max
   github: demands
+  npm: demands
 
 -
   name: Michael Kebbekus
   username: michael.kebbekus
   github: makebbekus
+  npm: michaelkebbekus
 
 -
   name: Moshe Bergman
   username: moshe
   github: mb-dev
+  npm: mb-dev
 
 -
   name: Michelle Becker
   username: michelle
   github: michelle-becker
+  npm: michelle-becker
 
 -
   name: Philippe Serhal
   username: philippe
   github: serhalp
+  npm: serhalp
 
 -
   name: Randy Puro
   username: randy
   github: randypuro
   heroku: randypuro@gmail.com
+  npm: randypuro
 
 -
   name: Sherman Mui
   username: sherman
   github: sherrman
+  npm: sherrman
 
 -
   name: Deploybot
