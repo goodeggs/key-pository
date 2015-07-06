@@ -3,10 +3,11 @@
   "version": "0.0.1",
   "description": "key-pository",
   "dependencies": {
-    "fibrous": "*",
+    "fibers": "^1.0.6",
+    "fibrous": "^0.4.0",
     "heroku-client": "git+https://github.com/goodeggs/node-heroku-client.git#master",
-    "yargs": "*",
-    "js-yaml": "^3.2.7"
+    "js-yaml": "^3.2.7",
+    "yargs": "^3.15.0"
   },
   "devDependencies": {
     "coffee-script": "*"
