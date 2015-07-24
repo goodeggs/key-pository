@@ -28,6 +28,12 @@
   npm: anaulin
 
 -
+  name: Andre Williams
+  username: andre
+  github: andreeee
+  npm: andreeee
+
+-
   name: Ben Buckman
   username: ben.buckman
   github: benbuckman
@@ -152,4 +158,3 @@
   username: deploy
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
-
