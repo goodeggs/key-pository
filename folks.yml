@@ -28,12 +28,6 @@
   npm: andreeee
 
 -
-  name: Ben Buckman
-  username: ben.buckman
-  github: benbuckman
-  npm: benbuckman
-
--
   name: Bob Zoller
   username: bob
   github: bobzoller
@@ -44,11 +38,6 @@
   username: claudia
   github: claudiamgold
   npm: claud334
-
--
-  name: Dan Reed
-  username: dan
-  github: dreed1
 
 -
   name: Danny Nelson
@@ -93,18 +82,6 @@
   npm: gwwar
 
 -
-  name: Kristina Garfinkel
-  username: kristina
-  github: kbrainwave
-  npm: kbrainwave
-
--
-  name: Kyle Warneck
-  username: kyle.warneck
-  github: kylew
-  npm: kylew
-
--
   name: Lei Huang
   username: lei
   github: sylspren
@@ -121,18 +98,6 @@
   username: michael.kebbekus
   github: makebbekus
   npm: michaelkebbekus
-
--
-  name: Moshe Bergman
-  username: moshe
-  github: mb-dev
-  npm: mb-dev
-
--
-  name: Michelle Becker
-  username: michelle
-  github: michelle-becker
-  npm: michelle-becker
 
 -
   name: Philippe Serhal
@@ -152,12 +117,6 @@
   username: robert.gash
   github: gashalot
   npm: gashalot
-
--
-  name: Sherman Mui
-  username: sherman
-  github: sherrman
-  npm: sherrman
 
 -
   name: Deploybot
