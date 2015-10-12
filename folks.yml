@@ -107,6 +107,12 @@
   npm: sziolko
 
 -
+  name: Dmitry Golyshev
+  username: dmitry
+  github: golyshev
+  npm: d.golyshev
+  
+-
   name: Deploybot
   username: deploy
   github: goodeggs-deploy
