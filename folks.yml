@@ -22,13 +22,6 @@
   npm: asalant
 
 -
-  name: Ana Ulin
-  username: ana
-  github: anaulin
-  heroku: ana@ulin.org
-  npm: anaulin
-
--
   name: Andre Williams
   username: andre
   github: andreeee
@@ -39,7 +32,7 @@
   username: bob
   github: bobzoller
   npm: bobzoller
-  
+
 -
   name: Claudia Gold
   username: claudia
@@ -124,7 +117,7 @@
   username: dmitry
   github: golyshev
   npm: d.golyshev
-  
+
 -
   name: Deploybot
   username: deploy
