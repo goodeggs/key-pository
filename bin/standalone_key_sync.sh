@@ -17,6 +17,8 @@
 KEY_DIRECTORY=$HOME/.ssh/goodeggs_keys
 
 # clean the local key cache and re-fetch from Github latest master branch
+mkdir -p $KEY_DIRECTORY
+chmod 0700 $KEY_DIRECTORY
 rm -rf $KEY_DIRECTORY/*
 curl -s https://codeload.github.com/goodeggs/key-pository/tar.gz/master | tar xz --strip=2 -C $KEY_DIRECTORY 'key-pository-master/keys/' || exit 1
 
