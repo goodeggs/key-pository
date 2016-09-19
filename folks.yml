@@ -129,3 +129,10 @@
   username: deploy
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
+
+-
+  name: Colin Curtin
+  username: colin
+  github: perplexes
+  heroku: colin.t.curtin@gmail.com
+  npm: colincurtin
