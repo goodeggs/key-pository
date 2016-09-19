@@ -8,13 +8,6 @@
   npm: zestfulapple
 
 -
-  name: Adam Hull
-  username: adam
-  github: hurrymaplelad
-  heroku: adam@hmlad.com
-  npm: hurrymaplelad
-
--
   name: Alon Salant
   username: alon
   github: asalant
@@ -56,12 +49,6 @@
   username: danny
   github: dannynelson
   npm: dannynelson
-
--
-  name: Daryl Lau
-  username: daryl
-  github: dlau
-  npm: dlau
 
 -
   name: Joey Hobbs
@@ -117,12 +104,6 @@
   username: scott.ziolko
   github: sziolko
   npm: sziolko
-
--
-  name: Dmitry Golyshev
-  username: dmitry
-  github: golyshev
-  npm: d.golyshev
 
 -
   name: Deploybot
