@@ -36,5 +36,5 @@ for i in `ls -1 $KEY_DIRECTORY`; do cat $KEY_DIRECTORY/$i >> $HOME/.ssh/authoriz
 
 # allow for a locally specified "persistent key"
 # currently this is unused, but allows for special localized access
-cat $HOME/.ssh/persistent_keys >> $HOME/.ssh/authorized_keys
+[ -f $HOME/.ssh/persistent_keys ] && cat $HOME/.ssh/persistent_keys >> $HOME/.ssh/authorized_keys
 chmod 600 $HOME/.ssh/authorized_keys
