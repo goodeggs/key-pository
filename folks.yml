@@ -93,12 +93,6 @@
   npm: randypuro
 
 -
-  name: Scott Ziolko
-  username: scott.ziolko
-  github: sziolko
-  npm: sziolko
-
--
   name: Deploybot
   username: deploy
   github: goodeggs-deploy
