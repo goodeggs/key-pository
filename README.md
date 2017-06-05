@@ -17,6 +17,8 @@ The comment (at the end of your keyfile) must be your @goodeggs.com email addres
 
 ### Sync Heroku Collaborators
 
+**DEPRECATED: Not for new users**
+
 See the Good Eggs 1Password vault for the heroku login which you'll need to get the API token.
 
 `./bin/sync_heroku_collaborators`
