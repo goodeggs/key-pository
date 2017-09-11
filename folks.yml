@@ -26,16 +26,8 @@
   npm: bobzoller
 
 -
-  name: Bryce Fisher-Fleig
-  username: bryce
-  github: brycefisher
-  npm: gebryce
-
--
-  name: Claudia Gold
-  username: claudia
-  github: claudiamgold
-  npm: claud334
+  name: Cristian Ames
+  npm: cristianames92
 
 -
   name: Danny Nelson
@@ -56,12 +48,6 @@
   npm: jonah-williams
 
 -
-  name: Keith Norman
-  username: keith
-  github: keithnorm
-  npm: keithnorm
-
--
   name: Lei Huang
   username: lei
   github: sylspren
@@ -78,6 +64,10 @@
   username: michael.kebbekus
   github: makebbekus
   npm: michaelkebbekus
+
+-
+  name: Pablo Giorgi
+  npm: pablo.giorgi
 
 -
   name: Philippe Serhal
@@ -97,13 +87,6 @@
   username: deploy
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
-
--
-  name: Colin Curtin
-  username: colin
-  github: perplexes
-  heroku: colin.curtin@goodeggs.com
-  npm: colincurtin
 
 -
   name: Catherine Cheng
