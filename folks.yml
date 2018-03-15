@@ -26,32 +26,16 @@
   npm: bobzoller
 
 -
-  name: Cristian Ames
-  npm: cristianames92
-
--
   name: Danny Nelson
   username: danny
   github: dannynelson
   npm: dannynelson
 
 -
-  name: Joey Hobbs
-  username: joey
-  github: jhob
-  npm: jhob
-
--
   name: Jonah Williams
   username: jonah
   github: jonah-williams
   npm: jonah-williams
-
--
-  name: Lei Huang
-  username: lei
-  github: sylspren
-  npm: sylspren
 
 -
   name: Max Edmands
@@ -64,10 +48,6 @@
   username: michael.kebbekus
   github: makebbekus
   npm: michaelkebbekus
-
--
-  name: Pablo Giorgi
-  npm: pablo.giorgi
 
 -
   name: Philippe Serhal
@@ -87,12 +67,6 @@
   username: deploy
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
-
--
-  name: Catherine Cheng
-  username: catherine
-  github: chengcatherine
-  npm: catherinecheng
 
 -
   name: Jason Hu
