@@ -96,7 +96,7 @@
   username: seth.frost
   github: dovekie
   npm: sfrost
-  
+
 -
   name: Jason Konrad
   username: jason.konrad
@@ -107,3 +107,9 @@
   name: Scott Bastek
   username: scott.bastek
   github: scottybeegood
+
+-
+  name: William William
+  username: william.widmer
+  github: wwwidmer
+  npm: wwwidmer
