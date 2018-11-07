@@ -49,13 +49,6 @@
   npm: serhalp
 
 -
-  name: Randy Puro
-  username: randy
-  github: randypuro
-  heroku: randypuro@gmail.com
-  npm: randypuro
-
--
   name: Deploybot
   username: deploy
   github: goodeggs-deploy
@@ -130,8 +123,3 @@
   name: Farrah Bousetta
   username: farrah.bousetta
   github: fabbous
-
--
-  name: Pierce Hubbard
-  username: pierce.hubbard
-  github: MVPierce
