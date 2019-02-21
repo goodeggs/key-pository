@@ -7,12 +7,6 @@
   npm: andreeee
 
 -
-  name: Arlo Armstrong
-  username: arlo
-  github: arlophoenix
-  npm: arlo_egg
-
--
   name: Bob Zoller
   username: bob
   github: bobzoller
@@ -23,12 +17,6 @@
   username: danny
   github: dannynelson
   npm: dannynelson
-
--
-  name: Ethan Jud
-  username: ethan.jud
-  github: ejud
-  npm: ejud
 
 -
   name: Max Edmands
@@ -61,18 +49,6 @@
   npm: jasonhhu
 
 -
-  name: Sam Wainwright
-  username: sam.wainwright
-  github: budleigh
-  npm: budleigh
-
--
-  name: Mike Hays
-  username: mike.hays
-  github: murkey
-  npm: mikehays
-
--
   name: Keith Swett
   username: keith.swett
   github: swettk
@@ -83,12 +59,6 @@
   username: nathan
   github: ndhoule
   npm: ndhoule
-
--
-  name: Seth Frost
-  username: seth.frost
-  github: dovekie
-  npm: sfrost
 
 -
   name: Jason Konrad
@@ -112,12 +82,6 @@
   username: polo.ma
   github: poloma-ge
   npm: poloma-ge
-
--
-  name: Razzi Abuissa
-  username: razzi.abuissa
-  github: razzius
-  npm: razzi
 
 -
   name: Farrah Bousetta
