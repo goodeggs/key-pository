@@ -19,12 +19,6 @@
   npm: dannynelson
 
 -
-  name: Max Edmands
-  username: max
-  github: demands
-  npm: demands
-
--
   name: Michael Kebbekus
   username: michael.kebbekus
   github: makebbekus
@@ -67,11 +61,6 @@
   npm: konradjg
 
 -
-  name: Scott Bastek
-  username: scott.bastek
-  github: scottybeegood
-
--
   name: William William
   username: william.widmer
   github: wwwidmer
@@ -103,5 +92,4 @@
   username: rishabh.sharma
   github: risharma
   npm: risharma
- 
 
