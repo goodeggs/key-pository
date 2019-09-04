@@ -1,117 +1,143 @@
 ---
-- name: Andre Williams
+
+-
+  name: Andre Williams
   username: andre
   github: andreeee
   npm: andreeee
 
-- name: Bob Zoller
+-
+  name: Bob Zoller
   username: bob
   github: bobzoller
   npm: bobzoller
 
-- name: Danny Nelson
+-
+  name: Danny Nelson
   username: danny
   github: dannynelson
   npm: dannynelson
 
-- name: Michael Kebbekus
+-
+  name: Michael Kebbekus
   username: michael.kebbekus
   github: makebbekus
   npm: michaelkebbekus
 
-- name: Philippe Serhal
+-
+  name: Philippe Serhal
   username: philippe
   github: serhalp
   npm: serhalp
 
-- name: Deploybot
+-
+  name: Deploybot
   username: deploy
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
 
-- name: Jason Hu
+-
+  name: Jason Hu
   username: jason.hu
   github: jason-h-hu
   npm: jasonhhu
 
-- name: Keith Swett
+-
+  name: Keith Swett
   username: keith.swett
   github: swettk
   npm: swettk
 
-- name: Nathan Houle
+-
+  name: Nathan Houle
   username: nathan
   github: ndhoule
   npm: ndhoule
 
-- name: Jason Konrad
+-
+  name: Jason Konrad
   username: jason.konrad
   github: konradjg
   npm: konradjg
 
-- name: William William
+-
+  name: William William
   username: william.widmer
   github: wwwidmer
   npm: wwwidmer
 
-- name: Polo Ma
+-
+  name: Polo Ma
   username: polo.ma
   github: poloma-ge
   npm: poloma-ge
 
-- name: Farrah Bousetta
+-
+  name: Farrah Bousetta
   username: farrah.bousetta
   github: fabbous
 
-- name: Alice Lin
+-
+  name: Alice Lin
   username: alice.lin
   github: aliceslin91
 
-- name: Samuel Wainwright
+-
+  name: Samuel Wainwright
   username: sam.wainwright
   github: budleigh
 
-- name: Rishabh Sharma
+-
+  name: Rishabh Sharma
   username: rishabh.sharma
   github: risharma
   npm: risharma
 
-- name: David Wallace
+-
+  name: David Wallace
   username: david.wallace
   github: dwallace0723
   npm: wallac71
 
-- name: Pedro Dias
+-
+  name: Pedro Dias
   username: pedro.dias
   github: pedrodias2703
   npm: pedrodias2703
 
-- name: Hiago Machado
+-
+  name: Hiago Machado
   username: hiago.machado
   github: hiagomachado777
   npm: hiagomachado777
 
-- name: Tony Hurst
+-
+  name: Tony Hurst
   username: tony.hurst
   github: thurst0
   npm: hurs4529
 
-- name: Daniel laurindo
+-
+  name: Daniel laurindo
   username: daniel.laurindo
   github: laurindo
   npm: dslaurindo
 
-- name: Davidson Nascimento
+-
+  name: Davidson Nascimento
   username: davidson.nascimento
   github: davidsonsns
   npm: davidsonsns
 
-- name: Marco Aurelio Maturana Silveira
+-
+  name: Marco Aurelio Maturana Silveira
   username: marco.silveira
   github: marco-maturana
   npm: marcomaturana
 
-- name: Arlindo Pereira da Silva Neto
+-
+  name: Arlindo Pereira da Silva Neto
   username: arlindo.neto
   github: arlindosilvaneto
   npm: arlindosilvaneto
+
