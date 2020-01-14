@@ -61,21 +61,10 @@
   npm: konradjg
 
 -
-  name: William William
-  username: william.widmer
-  github: wwwidmer
-  npm: wwwidmer
-
--
   name: Polo Ma
   username: polo.ma
   github: poloma-ge
   npm: poloma-ge
-
--
-  name: Farrah Bousetta
-  username: farrah.bousetta
-  github: fabbous
 
 -
   name: Alice Lin
@@ -98,12 +87,6 @@
   username: david.wallace
   github: dwallace0723
   npm: wallac71
-
--
-  name: Pedro Dias
-  username: pedro.dias
-  github: pedrodias2703
-  npm: pedrodias2703
 
 -
   name: Hiago Machado
