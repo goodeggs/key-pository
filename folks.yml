@@ -1,137 +1,113 @@
 ---
-
--
-  name: Andre Williams
+- name: Andre Williams
   username: andre
   github: andreeee
   npm: andreeee
 
--
-  name: Bob Zoller
+- name: Bob Zoller
   username: bob
   github: bobzoller
   npm: bobzoller
 
--
-  name: Danny Nelson
+- name: Danny Nelson
   username: danny
   github: dannynelson
   npm: dannynelson
 
--
-  name: Michael Kebbekus
+- name: Michael Kebbekus
   username: michael.kebbekus
   github: makebbekus
   npm: michaelkebbekus
 
--
-  name: Philippe Serhal
+- name: Philippe Serhal
   username: philippe
   github: serhalp
   npm: serhalp
 
--
-  name: Deploybot
+- name: Deploybot
   username: deploy
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
 
--
-  name: Jason Hu
+- name: Jason Hu
   username: jason.hu
   github: jason-h-hu
   npm: jasonhhu
 
--
-  name: Keith Swett
+- name: Keith Swett
   username: keith.swett
   github: swettk
   npm: swettk
 
--
-  name: Polo Ma
+- name: Polo Ma
   username: polo.ma
   github: poloma-ge
   npm: poloma-ge
 
--
-  name: Alice Lin
+- name: Alice Lin
   username: alice.lin
   github: aliceslin91
 
--
-  name: Samuel Wainwright
+- name: Samuel Wainwright
   username: sam.wainwright
   github: budleigh
 
--
-  name: Rishabh Sharma
+- name: Rishabh Sharma
   username: rishabh.sharma
   github: risharma
   npm: risharma
 
--
-  name: David Wallace
+- name: David Wallace
   username: david.wallace
   github: dwallace0723
   npm: wallac71
 
--
-  name: Hiago Machado
+- name: Hiago Machado
   username: hiago.machado
   github: hiagomachado777
   npm: hiagomachado777
 
--
-  name: Daniel laurindo
+- name: Daniel laurindo
   username: daniel.laurindo
   github: laurindo
   npm: dslaurindo
 
--
-  name: Davidson Nascimento
+- name: Davidson Nascimento
   username: davidson.nascimento
   github: davidsonsns
   npm: davidsonsns
 
--
-  name: Marco Aurelio Maturana Silveira
+- name: Marco Aurelio Maturana Silveira
   username: marco.silveira
   github: marco-maturana
   npm: marcomaturana
 
--
-  name: Arlindo Pereira da Silva Neto
+- name: Arlindo Pereira da Silva Neto
   username: arlindo.neto
   github: arlindosilvaneto
   npm: arlindosilvaneto
 
--
-  name: Pedro Leao
+- name: Pedro Leao
   username: pedro.leao
   github: leaopedro
   npm: leaopedro
 
--
-  name: Shermam Miranda
+- name: Shermam Miranda
   username: shermam.miranda
   github: shermam
   npm: shermam
 
--
-  name: Lucas Gertel
+- name: Lucas Gertel
   username: lucas.gertel
   github: lgertel
   npm: lgertel
 
--
-  name: Guilherme Corsino
+- name: Guilherme Corsino
   username: guilherme.corsino
   github: guilhermecorsino
   npm: guilhermecorsino
 
--
-  name: Matt Petrie
+- name: Matt Petrie
   username: matt.petrie
   github: mattpetrie
   npm: mattpetrie
