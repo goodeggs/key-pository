@@ -1,9 +1,4 @@
 ---
-- name: Andre Williams
-  username: andre
-  github: andreeee
-  npm: andreeee
-
 - name: Bob Zoller
   username: bob
   github: bobzoller
@@ -38,10 +33,6 @@
   username: polo.ma
   github: poloma-ge
   npm: poloma-ge
-
-- name: Alice Lin
-  username: alice.lin
-  github: aliceslin91
 
 - name: Rishabh Sharma
   username: rishabh.sharma
