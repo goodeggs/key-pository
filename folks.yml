@@ -39,30 +39,10 @@
   github: risharma
   npm: risharma
 
-- name: Hiago Machado
-  username: hiago.machado
-  github: hiagomachado777
-  npm: hiagomachado777
-
-- name: Daniel laurindo
-  username: daniel.laurindo
-  github: laurindo
-  npm: dslaurindo
-
-- name: Davidson Nascimento
-  username: davidson.nascimento
-  github: davidsonsns
-  npm: davidsonsns
-
 - name: Marco Aurelio Maturana Silveira
   username: marco.silveira
   github: marco-maturana
   npm: marcomaturana
-
-- name: Arlindo Pereira da Silva Neto
-  username: arlindo.neto
-  github: arlindosilvaneto
-  npm: arlindosilvaneto
 
 - name: Pedro Leao
   username: pedro.leao
@@ -73,11 +53,6 @@
   username: shermam.miranda
   github: shermam
   npm: shermam
-
-- name: Lucas Gertel
-  username: lucas.gertel
-  github: lgertel
-  npm: lgertel
 
 - name: Guilherme Corsino
   username: guilherme.corsino
