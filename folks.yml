@@ -24,11 +24,6 @@
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
 
-- name: Jason Hu
-  username: jason.hu
-  github: jason-h-hu
-  npm: jasonhhu
-
 - name: Polo Ma
   username: polo.ma
   github: poloma-ge
