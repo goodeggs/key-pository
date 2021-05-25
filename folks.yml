@@ -24,11 +24,6 @@
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
 
-- name: Polo Ma
-  username: polo.ma
-  github: poloma-ge
-  npm: poloma-ge
-
 - name: Rishabh Sharma
   username: rishabh.sharma
   github: risharma
