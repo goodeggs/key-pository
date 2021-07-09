@@ -64,6 +64,11 @@
   github: Ma7urana
   npm: maturana
 
+- name: Gabriel Henrique Rudey
+  username: gabriel.rudey
+  github: whothey
+  npm: whothey
+
 - name: Tom Velich
   username: thomas.velich
   github: tvelich
@@ -88,3 +93,8 @@
   username: henrique.ramos
   github: hnrq
   npm: hnrq
+  
+- name: Lee Irvine
+  username: lee.irvine
+  github: leegoodeggs
+  npm: leegoodegg
