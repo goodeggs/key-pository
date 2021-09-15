@@ -93,7 +93,7 @@
   username: henrique.ramos
   github: hnrq
   npm: hnrq
-  
+
 - name: Lee Irvine
   username: lee.irvine
   github: leegoodeggs
@@ -103,7 +103,7 @@
   username: max.mcgee
   github: mxmcg
   npm: mxmcg
-  
+
 - name: Tim Johnson
   username: tim.johnson
   github: timjohnson-valtech
@@ -123,3 +123,8 @@
   username: vivian.sze
   github: vvnsze
   npm: viviansze
+
+- name: Adam Kramer
+  username: adam.kramer
+  github: adam-kramer
+  npm: adam-kramer
