@@ -64,11 +64,6 @@
   github: tvelich
   npm: tvelich
 
-- name: Ryan Zindorf
-  username: ryan.zindorf
-  github: goodeggsrmz
-  npm: goodeggsrmz
-
 - name: Dave Lowe
   username: dave.lowe
   github: davelowe
@@ -94,11 +89,6 @@
   github: tleo19
   npm: tleo19
 
-- name: Vivian Sze
-  username: vivian.sze
-  github: vvnsze
-  npm: viviansze
-
 - name: Adam Kramer
   username: adam.kramer
   github: adam-kramer
@@ -108,11 +98,6 @@
   username: malik.inkatha
   github: inkatha
   npm: malik.inkatha
-
-- name: Ryan Graham
-  username: ryan.graham
-  github: ryangraham-ge
-  npm: ryangraham-ge
 
 - name: Daniel Gutiérrez
   username: daniel.gutierrez
