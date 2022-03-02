@@ -69,31 +69,6 @@
   github: davelowe
   npm: davelowe
 
-- name: Max McGee
-  username: max.mcgee
-  github: mxmcg
-  npm: mxmcg
-
-- name: Tim Johnson
-  username: tim.johnson
-  github: timjohnson-valtech
-  npm: valtech_tim
-
-- name: Tony Davydets
-  username: tony.davydets
-  github: t-davyd-08
-  npm: t-davyd-08
-
-- name: Leo Tuil
-  username: leo.tuil
-  github: tleo19
-  npm: tleo19
-
-- name: Adam Kramer
-  username: adam.kramer
-  github: adam-kramer
-  npm: adam-kramer
-
 - name: Malik Inkatha
   username: malik.inkatha
   github: inkatha
