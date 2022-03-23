@@ -4,11 +4,6 @@
   github: bobzoller
   npm: bobzoller
 
-- name: Michael Kebbekus
-  username: michael.kebbekus
-  github: makebbekus
-  npm: michaelkebbekus
-
 - name: Philippe Serhal
   username: philippe
   github: serhalp
@@ -78,11 +73,6 @@
   username: daniel.gutierrez
   github: dano-gutierrez
   npm: daniel.gutierrez
-
-- name: Sam Wechter
-  username: sam.wechter
-  github: SWechterGoodEggs
-  npm: SWechterGoodEggs
 
 - name: Alice Lin
   username: alice.lin
