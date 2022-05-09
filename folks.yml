@@ -39,11 +39,6 @@
   github: guilhermecorsino
   npm: guilhermecorsino
 
-- name: Matt Petrie
-  username: matt.petrie
-  github: mattpetrie
-  npm: mattpetrie
-
 - name: Pierce Bala
   username: pierce.bala
   github: piercebala
@@ -64,27 +59,7 @@
   github: davelowe
   npm: davelowe
 
-- name: Malik Inkatha
-  username: malik.inkatha
-  github: inkatha
-  npm: malik.inkatha
-
 - name: Daniel Gutiérrez
   username: daniel.gutierrez
   github: dano-gutierrez
   npm: daniel.gutierrez
-
-- name: Alice Lin
-  username: alice.lin
-  github: aliceslin91
-  npm: linalice
-
-- name: Leathan Teal
-  username: leathan.teal
-  github: LeathanTeal
-  npm: leathanteal
-
-- name: Andrey Kabanov
-  username: andrey.kabanov
-  github: loeakaodas
-  npm: andrey.kabanov
