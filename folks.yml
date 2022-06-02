@@ -24,11 +24,6 @@
   github: marco-maturana
   npm: marcomaturana
 
-- name: Pedro Leao
-  username: pedro.leao
-  github: leaopedro
-  npm: leaopedro
-
 - name: Shermam Miranda
   username: shermam.miranda
   github: shermam
@@ -58,11 +53,6 @@
   username: dave.lowe
   github: davelowe
   npm: davelowe
-
-- name: Daniel Gutiérrez
-  username: daniel.gutierrez
-  github: dano-gutierrez
-  npm: daniel.gutierrez
 
 - name: Guilherme Paiva
   username: guilherme.paiva
