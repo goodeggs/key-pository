@@ -4,20 +4,10 @@
   github: bobzoller
   npm: bobzoller
 
-- name: Philippe Serhal
-  username: philippe
-  github: serhalp
-  npm: serhalp
-
 - name: Deploybot
   username: deploy
   github: goodeggs-deploy
   heroku: deploy@goodeggsinc.com
-
-- name: Rishabh Sharma
-  username: rishabh.sharma
-  github: risharma
-  npm: risharma
 
 - name: Marco Aurelio Maturana Silveira
   username: marco.silveira
@@ -29,21 +19,6 @@
   github: shermam
   npm: shermam
 
-- name: Guilherme Corsino
-  username: guilherme.corsino
-  github: guilhermecorsino
-  npm: guilhermecorsino
-
-- name: Pierce Bala
-  username: pierce.bala
-  github: piercebala
-  npm: piercebala
-
-- name: Gabriel Henrique Rudey
-  username: gabriel.rudey
-  github: whothey
-  npm: whothey
-
 - name: Tom Velich
   username: thomas.velich
   github: tvelich
@@ -53,16 +28,6 @@
   username: guilherme.paiva
   github: guilherme-vp
   npm: guilherme-vp
-
-- name: Marco Espinosa
-  username: marco.espinosa
-  github: quezma
-  npm: quezma
-
-- name: Jonas Graterol
-  username: jonas.graterol
-  github: jonasgraterol
-  npm: jonasgraterol
 
 - name: Camilla Teodoro
   username: camilla.teodoro
