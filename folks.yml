@@ -4,68 +4,37 @@
   github: bobzoller
   npm: bobzoller
 
-- name: Deploybot
-  username: deploy
-  github: goodeggs-deploy
-  heroku: deploy@goodeggsinc.com
-
-- name: Marco Aurelio Maturana Silveira
-  username: marco.silveira
-  github: marco-maturana
-  npm: marcomaturana
-
-- name: Shermam Miranda
-  username: shermam.miranda
-  github: shermam
-  npm: shermam
-
-- name: Tom Velich
-  username: thomas.velich
-  github: tvelich
-  npm: tvelich
-
-- name: Guilherme Paiva
-  username: guilherme.paiva
-  github: guilherme-vp
-  npm: guilherme-vp
-
-- name: Camilla Teodoro
-  username: camilla.teodoro
-  github: camillateodoro
-  npm: camillateodoro
-
-- name: João Bragança
-  username: joao.braganca
-  github: jvbraganca
-  npm: jvbraganca
-
-- name: Marcello Thiry
-  username: marcello.thiry
-  github: marcellothiry
-  npm: marcellothiry
+- name: Beka Baizhan
+  username: beka.baizhan
+  github: bekvbe
+  npm: bekabaizhan
 
 - name: Fernando Medina
   username: fernando.medina
   github: ferm0494
   npm: ferm0494
 
-- name: Javier Salazar
-  username: javier.salazar
-  github: jjaves
-  npm: jjaves
+- name: Deploybot
+  username: deploy
+  github: goodeggs-deploy
+  heroku: deploy@goodeggsinc.com
 
-- name: Andres Salguedo
-  username: andres.salguedo
-  github: lordandares
-  npm: andresrivero
+- name: Marcello Thiry
+  username: marcello.thiry
+  github: marcellothiry
+  npm: marcellothiry
 
 - name: Marcus Albuquerque
   username: marcus.albuquerque
   github: marcusalbuquerque
   npm: marcusalbuquerque
 
-- name: Beka Baizhan
-  username: beka.baizhan
-  github: bekvbe
-  npm: bekabaizhan
+- name: Marco Aurelio Maturana Silveira
+  username: marco.silveira
+  github: marco-maturana
+  npm: marcomaturana
 
+- name: Luis Herrera
+  username: luis.herrera
+  github: luuisss1598
+  npm: luuisss1598
