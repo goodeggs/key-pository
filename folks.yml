@@ -9,6 +9,11 @@
   github: bekvbe
   npm: bekabaizhan
 
+- name: Deploybot
+  username: deploy
+  github: goodeggs-deploy
+  heroku: deploy@goodeggsinc.com
+
 - name: Fernando Medina
   username: fernando.medina
   github: ferm0494
