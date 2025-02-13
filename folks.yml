@@ -9,10 +9,20 @@
   github: bekvbe
   npm: bekabaizhan
 
+- name: Deploybot
+  username: deploy
+  github: goodeggs-deploy
+  heroku: deploy@goodeggsinc.com
+
 - name: Fernando Medina
   username: fernando.medina
   github: ferm0494
   npm: ferm0494
+
+- name: Joao Paulo Oliveira Santos
+  username: joao.oliveira
+  github: jpbaterabsb
+  npm: jpbaterabsb
 
 - name: Deploybot
   username: deploy
